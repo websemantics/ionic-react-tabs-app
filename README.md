@@ -25,7 +25,6 @@ This app is the JavaScript transpile of [Ionic React Conference Demo App](https:
 * [Conference App](https://github.com/websemantics/ionic-react-conference-app)
 * [Photo Gallery App](https://github.com/websemantics/ionic-react-photo-gallery-app)
 * [Side Menu Starter](https://github.com/websemantics/ionic-react-sidemenu-app)
-* [Tabs Starter](https://github.com/websemantics/ionic-react-tabs-app)
 * [Blank Starter](https://github.com/websemantics/ionic-react-blank-app)
 * [Test App](https://github.com/websemantics/ionic-react-test-app)
 
